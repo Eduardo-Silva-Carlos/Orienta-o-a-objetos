@@ -1,0 +1,12 @@
+# Java - Ignorar arquivos compilados e pasta de saída
+*.class
+out/
+
+# C - Ignorar executáveis e objetos
+*.o
+*.exe
+a.out
+
+# IntelliJ - Ignorar configurações da IDE
+.idea/
+*.iml
